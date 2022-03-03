@@ -35,7 +35,7 @@ a{
 }
 .fa-solid{
     color:white;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 span{
     color:white;
@@ -46,7 +46,18 @@ li{
     margin:10px;
     align-items: center;
 }
+.right{
+    
 
+    background-color: rgba(74, 74, 74, 1);
+}
 .right > h2{
     color:red;
+    cursor:pointer;
+    
 }
+
+.fa-angle-up{
+    font-size: 15px;
+}
+
